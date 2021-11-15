@@ -1,25 +1,20 @@
 INSERT INTO items
-  (name,price,img_path)
 VALUES
-  ('りんご', 100, 'apple.jpg')
+  (2, 'りんご', 100, 'apple.jpg');
 
 INSERT INTO items
-  (name,price,img_path)
 VALUES
-  ('みかん', 80, 'orange.jpg')
+  (3, 'みかん', 80, 'orange.jpg');
 
 INSERT INTO items
-  (name,price,img_path)
 VALUES
-  ('ぶどう', 150, 'grape.jpg')
+  (4, 'ぶどう', 150, 'grape.jpg');
 
 INSERT INTO items
-  (name,price,img_path)
 VALUES
-  ('ばなな', 50, 'banana.jpg')
+  (5, 'ばなな', 50, 'banana.jpg');
 
 INSERT INTO items
-  (name,price,img_path)
 VALUES
-  ('さくらんぼ', 200, 'cherry.jpg')
+  (6, 'さくらんぼ', 200, 'cherry.jpg');
 
